@@ -76,6 +76,7 @@ httpd.serve_forever()
 '''
 
 ## OUTPUT:
+![Uploading image.png…]()
 
 
 ## RESULT:
